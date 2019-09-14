@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>{{ page.title }}</title>
+    <meta charset="utf-8" />
+    <meta name="author" content="Rahmat Awaludin">
+    <link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="/css/styles.css"/>
+  </head>
+
+  <body>
+    <div class="site">
+      <header>
+        <a href="/">blog</a>
+        <a href="/about.html">about</a>
+        <a href="http://github.com/rawaludin">github</a>
+        <a href="mailto:rahmat.awaludin@icloud.com">email</a>
+      </header>
+
+      <div id="content">
+        {{ content }}
+      </div>
+
+      <footer>
+        <p>
+          © {{ 'now' | date: "%Y" }} Rahmat Awaludin.
+        </p>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -1,4 +1,7 @@
-# Level-Level Manajemen Environment Server Web
+---
+layout: post
+title: Level-Level Manajemen Environment Server Web
+---
 
 Level 1: Cuma satu, production. Biasanya single developer. Environment production berfungsi sekaligus buat QA. Testing manual atau via travis. Kalau ada yang error, benerin, langsung push ke server. Beres.
 

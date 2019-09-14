@@ -1,13 +1,18 @@
 ---
-layout: page
+layout: default
 title: Rahmat Awaludin
 ---
 
-
-<ul class="posts">
+<div id="postlist">
   {% for post in site.posts %}
    {% unless post.draft %}
-    <li><span>{{ post.date | date_to_string }}</span> <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+  <div class="post">
+    <h3><a href="{{ BASE_PATH }}{{ post.url }}" title="Permalink to this article">{{ post.title }}</a></h3>
+
+    <div class="postinfo">
+      <p class="published" title="{{ post.date | date_to_string }}"> {{ post.date | date_to_string }} </p>
+    </div>
+  </div>
    {% endunless %}
   {% endfor %}
-</ul>
+</div>

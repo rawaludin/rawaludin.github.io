@@ -1,4 +1,7 @@
-# Level-Level Deployment Web
+---
+layout: post
+title: Level-Level Deployment Web
+---
 
 Level 1: Pakai shared hosting. Upload code via ftp, import sql via phpmyadmin. Test manual.
 

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Level-Level Deployment Web</title>
+    <meta charset="utf-8" />
+    <meta name="author" content="Rahmat Awaludin">
+    <link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="/css/styles.css"/>
+  </head>
+
+  <body>
+    <div class="site">
+      <header>
+        <a href="/">blog</a>
+        <a href="/about.html">about</a>
+        <a href="http://github.com/rawaludin">github</a>
+        <a href="mailto:rahmat.awaludin@icloud.com">email</a>
+      </header>
+
+      <div id="content">
+        <div class="post">
+          <h1 class="posttitle">
+            Level-Level Deployment Web
+          </h1>
+
+          <div class="postinfo">
+            <p class="published" title="">
+            10 Sep 2019
+            </p>
+          </div>
+        </div>
+
+        <div class="article">
+          <p>Level 1: Pakai shared hosting. Upload code via ftp, import sql via phpmyadmin. Test manual.</p>
+
+<p>Level 2: Pakai VPS. Connect repository ke travis, deploy pas commit di develop/master branch. Test otomatis.</p>
+
+<p>Level 3: Pakai cloud. Sama kayak level 2, cuman pakai instance dari AWS, Google Cloud, etc. Biar auto scale, load balance, etc.</p>
+
+<p>Level 4: Containerized app. Misal pakai docker. Build image dari travis, deploy image ke cloud pas success.</p>
+
+<p>Level 5: Container Orchestration. Sama kayak level 4, cuman deploy nya di orchestra misalnya pakai kubernetes. Maklum, servernya banyak. Microservices bro.</p>
+
+        </div>
+      </div>
+
+      <footer>
+        <p>
+          © 2019 Rahmat Awaludin.
+        </p>
+      </footer>
+    </div>
+  </body>
+</html>
