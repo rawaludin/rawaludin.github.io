@@ -9,5 +9,3 @@ Level 3: Tiga environment; development, QA sama production. Yang ini tim nya ban
 Level 4: Empat environment; development, QA, staging sama production. Mirip level 3, yang ini butuh production bener2 error free. Staging dibuat mirip banget sama production. Misal database production di copy ke staging. Setelah lulus di QA, di staging di cek lagi. Mungkin bisa load test gitu, kan mirip sama production. Ke production dan staging manual release sama Release Manager.
 
 Tergantung kompleksitas, jumlah environment ini tidak selalu sama dengan jumlah server. Bisa kurang atau lebih.
-
-> Komentar? Mention saya aja di [@rahmatawaludin](https://twitter.com/rahmatawaludin)
