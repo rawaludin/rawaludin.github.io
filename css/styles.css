@@ -12,7 +12,7 @@ body {
 
 .site {
     max-width: 586px;
-    text-align: justify;
+    text-align: left;
     margin: 3em auto 2em auto;
 }
 
