@@ -1,1 +1,19 @@
 permalink: /:title:output_ext
+url: "https://rahmatawaludin.com"
+title: "Rahmat Awaludin"
+author: "Rahmat Awaludin"
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+twitter:
+  username: rahmatawaludin
+  card: summary
+social:
+  name: Rahmat Awaludin
+  links:
+    - https://twitter.com/rahmatawaludin
+    - https://www.facebook.com/rahmatawaludin
+    - https://www.linkedin.com/in/rahmatawaludin
+    - https://github.com/rawaludin
+google_site_verification: "_qni_7MGJk9E0loDIyKJH8SrCxDC5tTcCJEJV443RJ0"
