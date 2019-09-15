@@ -1,22 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" type="text/css" href="/css/styles.css"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    {% seo %}
-  </head>
-
+<html lang="{{ site.lang }}">
+  {% include head.html %}
   <body>
     <div class="site">
-      <header>
-        <a href="/">blog</a>
-        <a href="/about.html">about</a>
-        <a href="http://github.com/rawaludin">github</a>
-        <a href="mailto:rahmat.awaludin@icloud.com">email</a>
-      </header>
-
+      {% include header.html %}
       <div id="content">
         <div class="post">
           <h1 class="posttitle">
@@ -35,11 +22,7 @@
         </div>
       </div>
 
-      <footer>
-        <p>
-          © {{ 'now' | date: "%Y" }} Rahmat Awaludin.
-        </p>
-      </footer>
+      {% include footer.html %}
     </div>
   </body>
 </html>
