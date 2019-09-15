@@ -16,7 +16,7 @@ Tujuan inti dari investasi adalah agar kekayaan bertambah. Memang bisa dikatakan
 Investasi juga beragam, kita harus menentukan investasi yang memberikan ROI[^1] terbaik dari pilihan yang ada. Jika bisa berinvestasi kepada profesional yang sudah berpengalaman, kenapa memilih memberikan investasi beresiko tinggi kepada mereka yang belum punya pengalaman?
 
 ## Sedekah
-Akhirat itu tujuan utama ketika sedekah. Sedekah Yang utama tentunya anak, istri dan orang tua sebagai nafkah untuk mereka. Selanjutnya kepada kerabat, fakir miskin, dhuafa, anak yatim, dll. 
+Akhirat itu tujuan utama ketika sedekah. Sedekah yang utama tentunya anak, istri dan orang tua sebagai nafkah untuk mereka. Selanjutnya kepada kerabat, fakir miskin, dhuafa, anak yatim, dll. 
 
 Berbeda dengan tujuan mendidik yang harapannya ada perubahan pada kondisi orang lain (khususnya finansial), di tujuan ini justru kita yang harus berubah. Berubah menjadi lebih ikhlas dan lebih yakin bahwa semua harta yang ada pada diri kita adalah pemberian Allah.
 
