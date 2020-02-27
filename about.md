@@ -25,4 +25,7 @@ Beberapa hal yang sudah saya buat:
   <li>
     Membuat website <a href="https://malescast.com">Malescast</a>
   </li>
+  <li>
+   Mengelola Tim Kukis Studio
+  </li>
 </ul>
