@@ -4,7 +4,6 @@ title: "Rahmat Awaludin"
 author: "Rahmat Awaludin"
 plugins:
   - jekyll-sitemap
-  - jekyll-seo-tag
   - jekyll-feed
 twitter:
   username: rahmatawaludin
