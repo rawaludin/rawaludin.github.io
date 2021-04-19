@@ -1,6 +1,5 @@
 permalink: /:title:output_ext
 url: "https://rahmatawaludin.com"
-title: "Rahmat Awaludin"
 author: "Rahmat Awaludin"
 plugins:
   - jekyll-sitemap
